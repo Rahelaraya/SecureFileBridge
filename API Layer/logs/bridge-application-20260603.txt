@@ -1,0 +1,551 @@
+2026-06-03 09:43:45.131 +02:00 [INF] Heartbeat monitoring service started.
+2026-06-03 09:43:45.131 +02:00 [INF] File polling service started.
+2026-06-03 09:43:45.301 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:43:45.306 +02:00 [INF] Physical files found: 1
+2026-06-03 09:43:45.306 +02:00 [INF] Heartbeat 1 at "2026-06-03T07:43:45.2905710Z"
+2026-06-03 09:43:45.327 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test03\Skärmbild 2026-05-27 082137.png
+2026-06-03 09:43:45.874 +02:00 [INF] Now listening on: https://localhost:7235
+2026-06-03 09:43:45.878 +02:00 [INF] Now listening on: http://localhost:5264
+2026-06-03 09:43:45.889 +02:00 [INF] File message published successfully. FileName: Skärmbild 2026-05-27 082137.png
+2026-06-03 09:43:46.214 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-03 09:43:46.216 +02:00 [INF] Hosting environment: Development
+2026-06-03 09:43:46.230 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-06-03 09:43:46.250 +02:00 [INF] File published to RabbitMQ: Skärmbild 2026-05-27 082137.png
+2026-06-03 09:43:46.255 +02:00 [INF] File moved to processed folder: Skärmbild 2026-05-27 082137.png
+2026-06-03 09:43:47.097 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/index.html - null null
+2026-06-03 09:43:47.318 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/index.html - 404 0 null 248.3588ms
+2026-06-03 09:43:47.330 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7235/swagger/index.html, Response status code: 404
+2026-06-03 09:43:56.267 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:43:56.272 +02:00 [INF] Physical files found: 0
+2026-06-03 09:44:04.987 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/index.html - null null
+2026-06-03 09:44:05.000 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/index.html - 404 0 null 13.0562ms
+2026-06-03 09:44:05.006 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7235/swagger/index.html, Response status code: 404
+2026-06-03 09:44:06.282 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:44:06.284 +02:00 [INF] Physical files found: 0
+2026-06-03 09:44:15.365 +02:00 [INF] Heartbeat 2 at "2026-06-03T07:44:15.3465707Z"
+2026-06-03 09:44:16.296 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:44:16.299 +02:00 [INF] Physical files found: 0
+2026-06-03 09:44:26.315 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:44:26.317 +02:00 [INF] Physical files found: 0
+2026-06-03 09:44:36.318 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:44:36.321 +02:00 [INF] Physical files found: 0
+2026-06-03 09:44:45.390 +02:00 [INF] Heartbeat 3 at "2026-06-03T07:44:45.3803389Z"
+2026-06-03 09:44:46.335 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:44:46.337 +02:00 [INF] Physical files found: 0
+2026-06-03 09:44:56.354 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:44:56.356 +02:00 [INF] Physical files found: 0
+2026-06-03 09:45:06.358 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:45:06.360 +02:00 [INF] Physical files found: 0
+2026-06-03 09:45:15.423 +02:00 [INF] Heartbeat 4 at "2026-06-03T07:45:15.4128643Z"
+2026-06-03 09:45:16.376 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:45:16.380 +02:00 [INF] Physical files found: 0
+2026-06-03 09:45:26.395 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:45:26.398 +02:00 [INF] Physical files found: 0
+2026-06-03 09:45:36.412 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:45:36.414 +02:00 [INF] Physical files found: 0
+2026-06-03 09:45:45.438 +02:00 [INF] Heartbeat 5 at "2026-06-03T07:45:45.4280485Z"
+2026-06-03 09:45:46.426 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:45:46.428 +02:00 [INF] Physical files found: 0
+2026-06-03 09:45:56.426 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:45:56.428 +02:00 [INF] Physical files found: 0
+2026-06-03 09:46:06.427 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:46:06.429 +02:00 [INF] Physical files found: 0
+2026-06-03 09:46:15.457 +02:00 [INF] Heartbeat 6 at "2026-06-03T07:46:15.4480470Z"
+2026-06-03 09:46:16.440 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:46:16.442 +02:00 [INF] Physical files found: 0
+2026-06-03 09:46:26.448 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 09:46:26.450 +02:00 [INF] Physical files found: 0
+2026-06-03 10:01:24.288 +02:00 [INF] Heartbeat monitoring service started.
+2026-06-03 10:01:24.288 +02:00 [INF] File polling service started.
+2026-06-03 10:01:24.428 +02:00 [INF] Heartbeat 1 at "2026-06-03T08:01:24.4194600Z"
+2026-06-03 10:01:24.428 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:01:24.435 +02:00 [INF] Physical files found: 0
+2026-06-03 10:01:24.677 +02:00 [INF] Now listening on: https://localhost:7235
+2026-06-03 10:01:24.680 +02:00 [INF] Now listening on: http://localhost:5264
+2026-06-03 10:01:24.841 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-03 10:01:24.842 +02:00 [INF] Hosting environment: Development
+2026-06-03 10:01:24.845 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-06-03 10:01:26.376 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/index.html - null null
+2026-06-03 10:01:26.680 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/index.html - 404 0 null 339.9743ms
+2026-06-03 10:01:26.695 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7235/swagger/index.html, Response status code: 404
+2026-06-03 10:01:34.450 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:01:34.452 +02:00 [INF] Physical files found: 0
+2026-06-03 10:01:44.463 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:01:44.467 +02:00 [INF] Physical files found: 0
+2026-06-03 10:01:54.465 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:01:54.473 +02:00 [INF] Physical files found: 0
+2026-06-03 10:01:54.476 +02:00 [INF] Heartbeat 2 at "2026-06-03T08:01:54.4492830Z"
+2026-06-03 10:02:04.482 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:02:04.487 +02:00 [INF] Physical files found: 0
+2026-06-03 10:02:14.491 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:02:14.493 +02:00 [INF] Physical files found: 0
+2026-06-03 10:02:24.501 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:02:24.515 +02:00 [INF] Physical files found: 0
+2026-06-03 10:02:24.521 +02:00 [INF] Heartbeat 3 at "2026-06-03T08:02:24.4909676Z"
+2026-06-03 10:02:34.540 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:02:34.542 +02:00 [INF] Physical files found: 0
+2026-06-03 10:02:44.555 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:02:44.557 +02:00 [INF] Physical files found: 0
+2026-06-03 10:02:54.537 +02:00 [INF] Heartbeat 4 at "2026-06-03T08:02:54.5300446Z"
+2026-06-03 10:02:54.561 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:02:54.563 +02:00 [INF] Physical files found: 0
+2026-06-03 10:03:04.563 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:03:04.568 +02:00 [INF] Physical files found: 0
+2026-06-03 10:03:14.586 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:03:14.588 +02:00 [INF] Physical files found: 0
+2026-06-03 10:03:24.549 +02:00 [INF] Heartbeat 5 at "2026-06-03T08:03:24.5403407Z"
+2026-06-03 10:03:24.604 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:03:24.606 +02:00 [INF] Physical files found: 0
+2026-06-03 10:03:34.622 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:03:34.625 +02:00 [INF] Physical files found: 0
+2026-06-03 10:03:44.625 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:03:44.629 +02:00 [INF] Physical files found: 0
+2026-06-03 10:03:54.572 +02:00 [INF] Heartbeat 6 at "2026-06-03T08:03:54.5623374Z"
+2026-06-03 10:03:54.642 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:03:54.644 +02:00 [INF] Physical files found: 0
+2026-06-03 10:04:04.657 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:04:04.662 +02:00 [INF] Physical files found: 0
+2026-06-03 10:04:14.681 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:04:14.684 +02:00 [INF] Physical files found: 0
+2026-06-03 10:04:24.579 +02:00 [INF] Heartbeat 7 at "2026-06-03T08:04:24.5718709Z"
+2026-06-03 10:04:24.686 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:04:24.689 +02:00 [INF] Physical files found: 0
+2026-06-03 10:04:34.695 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:04:34.700 +02:00 [INF] Physical files found: 0
+2026-06-03 10:04:44.703 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:04:44.705 +02:00 [INF] Physical files found: 0
+2026-06-03 10:04:54.605 +02:00 [INF] Heartbeat 8 at "2026-06-03T08:04:54.5974357Z"
+2026-06-03 10:04:54.713 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:04:54.716 +02:00 [INF] Physical files found: 0
+2026-06-03 10:05:04.718 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:05:04.721 +02:00 [INF] Physical files found: 0
+2026-06-03 10:05:14.735 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:05:14.738 +02:00 [INF] Physical files found: 0
+2026-06-03 10:05:24.618 +02:00 [INF] Heartbeat 9 at "2026-06-03T08:05:24.6100182Z"
+2026-06-03 10:05:24.739 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:05:24.742 +02:00 [INF] Physical files found: 0
+2026-06-03 10:05:33.920 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/index.html - null null
+2026-06-03 10:05:33.951 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/index.html - 404 0 null 33.688ms
+2026-06-03 10:05:33.956 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7235/swagger/index.html, Response status code: 404
+2026-06-03 10:05:34.757 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:05:34.759 +02:00 [INF] Physical files found: 0
+2026-06-03 10:09:35.216 +02:00 [INF] File polling service started.
+2026-06-03 10:09:35.216 +02:00 [INF] Heartbeat monitoring service started.
+2026-06-03 10:09:35.313 +02:00 [INF] Heartbeat 1 at "2026-06-03T08:09:35.2999569Z"
+2026-06-03 10:09:35.314 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:09:35.330 +02:00 [INF] Physical files found: 0
+2026-06-03 10:09:35.498 +02:00 [INF] Now listening on: https://localhost:7235
+2026-06-03 10:09:35.501 +02:00 [INF] Now listening on: http://localhost:5264
+2026-06-03 10:09:35.756 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-03 10:09:35.783 +02:00 [INF] Hosting environment: Development
+2026-06-03 10:09:35.784 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-06-03 10:09:36.338 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/index.html - null null
+2026-06-03 10:09:36.574 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/index.html - 404 0 null 270.7632ms
+2026-06-03 10:09:36.583 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7235/swagger/index.html, Response status code: 404
+2026-06-03 10:09:45.346 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:09:45.351 +02:00 [INF] Physical files found: 0
+2026-06-03 10:09:53.986 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/index.html - null null
+2026-06-03 10:09:54.002 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/index.html - 404 0 null 16.5189ms
+2026-06-03 10:09:54.008 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7235/swagger/index.html, Response status code: 404
+2026-06-03 10:09:55.362 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:09:55.365 +02:00 [INF] Physical files found: 0
+2026-06-03 10:16:51.449 +02:00 [INF] Heartbeat monitoring service started.
+2026-06-03 10:16:51.449 +02:00 [INF] File polling service started.
+2026-06-03 10:16:51.560 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:16:51.560 +02:00 [INF] Heartbeat 1 at "2026-06-03T08:16:51.5450423Z"
+2026-06-03 10:16:51.565 +02:00 [INF] Physical files found: 0
+2026-06-03 10:16:51.719 +02:00 [INF] Now listening on: https://localhost:7235
+2026-06-03 10:16:51.722 +02:00 [INF] Now listening on: http://localhost:5264
+2026-06-03 10:16:51.826 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-03 10:16:51.828 +02:00 [INF] Hosting environment: Development
+2026-06-03 10:16:51.830 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-06-03 10:16:52.687 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/index.html - null null
+2026-06-03 10:16:52.920 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/index.html - 404 0 null 266.4563ms
+2026-06-03 10:16:52.933 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7235/swagger/index.html, Response status code: 404
+2026-06-03 10:17:01.586 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:17:01.592 +02:00 [INF] Physical files found: 0
+2026-06-03 10:17:11.613 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:17:11.627 +02:00 [INF] Physical files found: 0
+2026-06-03 10:17:21.607 +02:00 [INF] Heartbeat 2 at "2026-06-03T08:17:21.5878357Z"
+2026-06-03 10:17:21.637 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:17:21.639 +02:00 [INF] Physical files found: 0
+2026-06-03 10:22:27.454 +02:00 [INF] File polling service started.
+2026-06-03 10:22:27.454 +02:00 [INF] Heartbeat monitoring service started.
+2026-06-03 10:22:27.589 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:22:27.590 +02:00 [INF] Heartbeat 1 at "2026-06-03T08:22:27.5711055Z"
+2026-06-03 10:22:27.598 +02:00 [INF] Physical files found: 0
+2026-06-03 10:22:27.765 +02:00 [INF] Now listening on: https://localhost:7235
+2026-06-03 10:22:27.768 +02:00 [INF] Now listening on: http://localhost:5264
+2026-06-03 10:22:27.867 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-03 10:22:27.869 +02:00 [INF] Hosting environment: Development
+2026-06-03 10:22:27.871 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-06-03 10:22:28.530 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/index.html - null null
+2026-06-03 10:22:28.845 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/index.html - 200 null text/html;charset=utf-8 347.839ms
+2026-06-03 10:22:28.872 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-06-03 10:22:28.874 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/index.js - null null
+2026-06-03 10:22:28.872 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/swagger-ui.css - null null
+2026-06-03 10:22:28.873 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/swagger-ui-bundle.js - null null
+2026-06-03 10:22:28.947 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/index.js - 200 null application/javascript;charset=utf-8 73.3924ms
+2026-06-03 10:22:28.898 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/index.css - null null
+2026-06-03 10:22:28.908 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/swagger-ui-standalone-preset.js - null null
+2026-06-03 10:22:28.963 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 91.2914ms
+2026-06-03 10:22:28.982 +02:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2026-06-03 10:22:28.919 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-06-03 10:22:29.014 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-06-03 10:22:29.014 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-06-03 10:22:29.008 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/index.css - 200 202 text/css 111.955ms
+2026-06-03 10:22:29.022 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/swagger-ui.css - 200 154949 text/css 149.8456ms
+2026-06-03 10:22:29.022 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 115.9148ms
+2026-06-03 10:22:29.068 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-06-03 10:22:29.070 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/swagger-ui-bundle.js - 200 1484234 text/javascript 198.4201ms
+2026-06-03 10:22:29.161 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 243.5858ms
+2026-06-03 10:22:29.260 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-06-03 10:22:29.272 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.5439ms
+2026-06-03 10:22:29.283 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/favicon-32x32.png - null null
+2026-06-03 10:22:29.288 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-06-03 10:22:29.290 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/favicon-32x32.png - 200 628 image/png 8.5794ms
+2026-06-03 10:22:37.622 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:22:37.625 +02:00 [INF] Physical files found: 0
+2026-06-03 10:22:47.632 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:22:47.635 +02:00 [INF] Physical files found: 0
+2026-06-03 10:22:56.703 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - null null
+2026-06-03 10:22:56.723 +02:00 [INF] Executing endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-06-03 10:22:56.746 +02:00 [INF] Route matched with {action = "GetFlowStatus", controller = "Files"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFlowStatus() on controller API_Layer.Controllers.FilesController (API Layer).
+2026-06-03 10:22:56.755 +02:00 [INF] Executing action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) - Validation state: "Valid"
+2026-06-03 10:22:56.765 +02:00 [INF] Executed action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 3.8643ms.
+2026-06-03 10:22:56.773 +02:00 [INF] Executing OkObjectResult, writing value of type 'Application_Layer.DTOs.FlowStatusResponse'.
+2026-06-03 10:22:56.799 +02:00 [INF] Executed action API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) in 41.6746ms
+2026-06-03 10:22:56.802 +02:00 [INF] Executed endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-06-03 10:22:56.804 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - 200 null application/json; charset=utf-8 102.6382ms
+2026-06-03 10:22:57.629 +02:00 [INF] Heartbeat 2 at "2026-06-03T08:22:57.6210175Z"
+2026-06-03 10:22:57.636 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:22:57.639 +02:00 [INF] Physical files found: 0
+2026-06-03 10:25:49.275 +02:00 [INF] Heartbeat monitoring service started.
+2026-06-03 10:25:49.275 +02:00 [INF] File polling service started.
+2026-06-03 10:25:49.372 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:25:49.381 +02:00 [INF] Heartbeat 1 at "2026-06-03T08:25:49.3640347Z"
+2026-06-03 10:25:49.382 +02:00 [INF] Physical files found: 1
+2026-06-03 10:25:49.386 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test03\TestTexs1.docx
+2026-06-03 10:25:49.698 +02:00 [INF] Now listening on: https://localhost:7235
+2026-06-03 10:25:49.701 +02:00 [INF] Now listening on: http://localhost:5264
+2026-06-03 10:25:49.815 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-03 10:25:49.818 +02:00 [INF] Hosting environment: Development
+2026-06-03 10:25:49.820 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-06-03 10:25:49.854 +02:00 [INF] File message published successfully. FileName: TestTexs1.docx
+2026-06-03 10:25:49.960 +02:00 [INF] File published to RabbitMQ: TestTexs1.docx
+2026-06-03 10:25:49.964 +02:00 [INF] File moved to processed folder: TestTexs1.docx
+2026-06-03 10:25:50.844 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-06-03 10:25:50.844 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-06-03 10:25:50.885 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 67.6225ms
+2026-06-03 10:25:50.920 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 103.6207ms
+2026-06-03 10:25:51.000 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-06-03 10:25:51.050 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 51.1857ms
+2026-06-03 10:25:59.960 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:25:59.965 +02:00 [INF] Physical files found: 0
+2026-06-03 10:26:00.366 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - null null
+2026-06-03 10:26:00.382 +02:00 [INF] Executing endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-06-03 10:26:00.407 +02:00 [INF] Route matched with {action = "GetFlowStatus", controller = "Files"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFlowStatus() on controller API_Layer.Controllers.FilesController (API Layer).
+2026-06-03 10:26:00.418 +02:00 [INF] Executing action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) - Validation state: "Valid"
+2026-06-03 10:26:00.427 +02:00 [INF] Executed action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 2.8631ms.
+2026-06-03 10:26:00.437 +02:00 [INF] Executing OkObjectResult, writing value of type 'Application_Layer.DTOs.FlowStatusResponse'.
+2026-06-03 10:26:00.452 +02:00 [INF] Executed action API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) in 37.0031ms
+2026-06-03 10:26:00.454 +02:00 [INF] Executed endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-06-03 10:26:00.457 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - 200 null application/json; charset=utf-8 91.6279ms
+2026-06-03 10:26:09.974 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:26:09.976 +02:00 [INF] Physical files found: 0
+2026-06-03 10:26:19.421 +02:00 [INF] Heartbeat 2 at "2026-06-03T08:26:19.4048101Z"
+2026-06-03 10:26:19.978 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:26:19.981 +02:00 [INF] Physical files found: 0
+2026-06-03 10:26:29.983 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:26:29.985 +02:00 [INF] Physical files found: 0
+2026-06-03 10:26:39.986 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:26:39.993 +02:00 [INF] Physical files found: 0
+2026-06-03 10:26:49.438 +02:00 [INF] Heartbeat 3 at "2026-06-03T08:26:49.4303663Z"
+2026-06-03 10:26:50.005 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:26:50.008 +02:00 [INF] Physical files found: 0
+2026-06-03 10:27:00.026 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:27:00.029 +02:00 [INF] Physical files found: 0
+2026-06-03 10:27:10.032 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:27:10.035 +02:00 [INF] Physical files found: 0
+2026-06-03 10:27:19.476 +02:00 [INF] Heartbeat 4 at "2026-06-03T08:27:19.4666144Z"
+2026-06-03 10:27:20.033 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:27:20.036 +02:00 [INF] Physical files found: 0
+2026-06-03 10:27:30.053 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:27:30.055 +02:00 [INF] Physical files found: 0
+2026-06-03 10:27:40.056 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:27:40.058 +02:00 [INF] Physical files found: 0
+2026-06-03 10:27:49.479 +02:00 [INF] Heartbeat 5 at "2026-06-03T08:27:49.4709998Z"
+2026-06-03 10:27:50.059 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:27:50.061 +02:00 [INF] Physical files found: 0
+2026-06-03 10:28:00.065 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:28:00.067 +02:00 [INF] Physical files found: 0
+2026-06-03 10:28:10.071 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:28:10.074 +02:00 [INF] Physical files found: 0
+2026-06-03 10:28:19.506 +02:00 [INF] Heartbeat 6 at "2026-06-03T08:28:19.4990154Z"
+2026-06-03 10:28:20.090 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:28:20.093 +02:00 [INF] Physical files found: 0
+2026-06-03 10:28:30.096 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:28:30.099 +02:00 [INF] Physical files found: 0
+2026-06-03 10:28:40.099 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:28:40.103 +02:00 [INF] Physical files found: 0
+2026-06-03 10:28:49.532 +02:00 [INF] Heartbeat 7 at "2026-06-03T08:28:49.5192844Z"
+2026-06-03 10:28:50.102 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:28:50.105 +02:00 [INF] Physical files found: 0
+2026-06-03 10:28:51.942 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/api/Health/status - null null
+2026-06-03 10:28:51.956 +02:00 [INF] Executing endpoint 'API_Layer.Controllers.HealthController.GetStatus (API Layer)'
+2026-06-03 10:28:51.965 +02:00 [INF] Route matched with {action = "GetStatus", controller = "Health"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStatus() on controller API_Layer.Controllers.HealthController (API Layer).
+2026-06-03 10:28:51.969 +02:00 [INF] Executing action method API_Layer.Controllers.HealthController.GetStatus (API Layer) - Validation state: "Valid"
+2026-06-03 10:28:51.975 +02:00 [INF] Health check completed: All components healthy
+2026-06-03 10:28:51.977 +02:00 [INF] Executed action method API_Layer.Controllers.HealthController.GetStatus (API Layer), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 6.5874ms.
+2026-06-03 10:28:51.980 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`6[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[Application_Layer.DTOs.ComponentHealth, Application Layer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-06-03 10:28:51.991 +02:00 [INF] Executed action API_Layer.Controllers.HealthController.GetStatus (API Layer) in 22.8855ms
+2026-06-03 10:28:52.000 +02:00 [INF] Executed endpoint 'API_Layer.Controllers.HealthController.GetStatus (API Layer)'
+2026-06-03 10:28:52.001 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/api/Health/status - 200 null application/json; charset=utf-8 59.8411ms
+2026-06-03 10:29:00.107 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:29:00.110 +02:00 [INF] Physical files found: 0
+2026-06-03 10:29:07.384 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/api/Health/heartbeat - null null
+2026-06-03 10:29:07.395 +02:00 [INF] Executing endpoint 'API_Layer.Controllers.HealthController.GetHeartbeat (API Layer)'
+2026-06-03 10:29:07.398 +02:00 [INF] Route matched with {action = "GetHeartbeat", controller = "Health"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetHeartbeat() on controller API_Layer.Controllers.HealthController (API Layer).
+2026-06-03 10:29:07.400 +02:00 [INF] Executing action method API_Layer.Controllers.HealthController.GetHeartbeat (API Layer) - Validation state: "Valid"
+2026-06-03 10:29:07.402 +02:00 [INF] Executed action method API_Layer.Controllers.HealthController.GetHeartbeat (API Layer), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.4291ms.
+2026-06-03 10:29:07.404 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`4[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-06-03 10:29:07.411 +02:00 [INF] Executed action API_Layer.Controllers.HealthController.GetHeartbeat (API Layer) in 10.6699ms
+2026-06-03 10:29:07.413 +02:00 [INF] Executed endpoint 'API_Layer.Controllers.HealthController.GetHeartbeat (API Layer)'
+2026-06-03 10:29:07.415 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/api/Health/heartbeat - 200 null application/json; charset=utf-8 30.9389ms
+2026-06-03 10:29:10.113 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:29:10.123 +02:00 [INF] Physical files found: 0
+2026-06-03 10:29:19.554 +02:00 [INF] Heartbeat 8 at "2026-06-03T08:29:19.5483002Z"
+2026-06-03 10:29:20.134 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 10:29:20.141 +02:00 [INF] Physical files found: 0
+2026-06-03 12:27:57.571 +02:00 [INF] Heartbeat monitoring service started.
+2026-06-03 12:27:57.571 +02:00 [INF] File polling service started.
+2026-06-03 12:27:57.693 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:27:57.695 +02:00 [INF] Heartbeat 1 at "2026-06-03T10:27:57.6803391Z"
+2026-06-03 12:27:57.696 +02:00 [INF] Physical files found: 0
+2026-06-03 12:27:57.861 +02:00 [INF] Now listening on: https://localhost:7235
+2026-06-03 12:27:57.864 +02:00 [INF] Now listening on: http://localhost:5264
+2026-06-03 12:27:57.958 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-03 12:27:57.961 +02:00 [INF] Hosting environment: Development
+2026-06-03 12:27:57.963 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-06-03 12:27:58.595 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-06-03 12:27:58.595 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-06-03 12:27:58.654 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 86.6005ms
+2026-06-03 12:27:58.742 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 175.7305ms
+2026-06-03 12:27:58.914 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-06-03 12:27:58.967 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 54.363ms
+2026-06-03 12:28:07.709 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:28:07.712 +02:00 [INF] Physical files found: 0
+2026-06-03 12:28:17.710 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:28:17.714 +02:00 [INF] Physical files found: 0
+2026-06-03 12:28:27.720 +02:00 [INF] Heartbeat 2 at "2026-06-03T10:28:27.7109782Z"
+2026-06-03 12:28:27.725 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:28:27.727 +02:00 [INF] Physical files found: 0
+2026-06-03 12:28:37.733 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:28:37.755 +02:00 [INF] Physical files found: 0
+2026-06-03 12:28:47.756 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:28:47.761 +02:00 [INF] Physical files found: 0
+2026-06-03 12:28:57.750 +02:00 [INF] Heartbeat 3 at "2026-06-03T10:28:57.7394223Z"
+2026-06-03 12:28:57.771 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:28:57.773 +02:00 [INF] Physical files found: 0
+2026-06-03 12:29:07.785 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:29:07.790 +02:00 [INF] Physical files found: 0
+2026-06-03 12:29:17.802 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:29:17.808 +02:00 [INF] Physical files found: 0
+2026-06-03 12:29:27.754 +02:00 [INF] Heartbeat 4 at "2026-06-03T10:29:27.7451000Z"
+2026-06-03 12:29:27.812 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:29:27.814 +02:00 [INF] Physical files found: 0
+2026-06-03 12:29:37.828 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:29:37.830 +02:00 [INF] Physical files found: 0
+2026-06-03 12:29:47.831 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:29:47.835 +02:00 [INF] Physical files found: 0
+2026-06-03 12:29:57.776 +02:00 [INF] Heartbeat 5 at "2026-06-03T10:29:57.7594566Z"
+2026-06-03 12:29:57.850 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:29:57.852 +02:00 [INF] Physical files found: 0
+2026-06-03 12:30:07.855 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:30:07.858 +02:00 [INF] Physical files found: 0
+2026-06-03 12:30:17.881 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:30:17.890 +02:00 [INF] Physical files found: 0
+2026-06-03 12:30:27.796 +02:00 [INF] Heartbeat 6 at "2026-06-03T10:30:27.7871465Z"
+2026-06-03 12:30:27.897 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:30:27.898 +02:00 [INF] Physical files found: 0
+2026-06-03 12:30:37.897 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:30:37.899 +02:00 [INF] Physical files found: 0
+2026-06-03 12:30:47.912 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:30:47.914 +02:00 [INF] Physical files found: 0
+2026-06-03 12:30:57.814 +02:00 [INF] Heartbeat 7 at "2026-06-03T10:30:57.8037963Z"
+2026-06-03 12:30:57.927 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:30:57.931 +02:00 [INF] Physical files found: 0
+2026-06-03 12:31:07.942 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:31:07.949 +02:00 [INF] Physical files found: 0
+2026-06-03 12:31:17.962 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:31:17.966 +02:00 [INF] Physical files found: 0
+2026-06-03 12:31:27.827 +02:00 [INF] Heartbeat 8 at "2026-06-03T10:31:27.8185935Z"
+2026-06-03 12:31:27.984 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:31:27.986 +02:00 [INF] Physical files found: 0
+2026-06-03 12:31:37.993 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:31:38.002 +02:00 [INF] Physical files found: 0
+2026-06-03 12:31:48.004 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:31:48.019 +02:00 [INF] Physical files found: 0
+2026-06-03 12:31:57.841 +02:00 [INF] Heartbeat 9 at "2026-06-03T10:31:57.8336322Z"
+2026-06-03 12:31:58.029 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:31:58.031 +02:00 [INF] Physical files found: 0
+2026-06-03 12:32:08.035 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:32:08.039 +02:00 [INF] Physical files found: 0
+2026-06-03 12:32:18.038 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:32:18.040 +02:00 [INF] Physical files found: 0
+2026-06-03 12:32:27.842 +02:00 [INF] Heartbeat 10 at "2026-06-03T10:32:27.8352904Z"
+2026-06-03 12:32:28.052 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:32:28.053 +02:00 [INF] Physical files found: 0
+2026-06-03 12:32:38.055 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:32:38.057 +02:00 [INF] Physical files found: 0
+2026-06-03 12:32:48.067 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:32:48.070 +02:00 [INF] Physical files found: 0
+2026-06-03 12:32:57.861 +02:00 [INF] Heartbeat 11 at "2026-06-03T10:32:57.8537797Z"
+2026-06-03 12:32:58.087 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:32:58.089 +02:00 [INF] Physical files found: 0
+2026-06-03 12:33:08.092 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:33:08.095 +02:00 [INF] Physical files found: 0
+2026-06-03 12:33:18.109 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:33:18.111 +02:00 [INF] Physical files found: 0
+2026-06-03 12:33:27.891 +02:00 [INF] Heartbeat 12 at "2026-06-03T10:33:27.8702932Z"
+2026-06-03 12:33:28.120 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:33:28.121 +02:00 [INF] Physical files found: 0
+2026-06-03 12:33:39.116 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:33:39.118 +02:00 [INF] Physical files found: 0
+2026-06-03 12:33:49.120 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:33:49.122 +02:00 [INF] Physical files found: 0
+2026-06-03 12:33:58.910 +02:00 [INF] Heartbeat 13 at "2026-06-03T10:33:58.8930128Z"
+2026-06-03 12:33:59.142 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:33:59.144 +02:00 [INF] Physical files found: 0
+2026-06-03 12:34:09.148 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:34:09.150 +02:00 [INF] Physical files found: 0
+2026-06-03 12:34:19.155 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:34:19.157 +02:00 [INF] Physical files found: 0
+2026-06-03 12:34:28.923 +02:00 [INF] Heartbeat 14 at "2026-06-03T10:34:28.9152877Z"
+2026-06-03 12:34:29.168 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:34:29.170 +02:00 [INF] Physical files found: 0
+2026-06-03 12:34:58.965 +02:00 [INF] File polling service started.
+2026-06-03 12:34:58.965 +02:00 [INF] Heartbeat monitoring service started.
+2026-06-03 12:34:59.073 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:34:59.074 +02:00 [INF] Heartbeat 1 at "2026-06-03T10:34:59.0582028Z"
+2026-06-03 12:34:59.078 +02:00 [INF] Physical files found: 0
+2026-06-03 12:34:59.241 +02:00 [INF] Now listening on: https://localhost:7235
+2026-06-03 12:34:59.244 +02:00 [INF] Now listening on: http://localhost:5264
+2026-06-03 12:34:59.361 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-03 12:34:59.363 +02:00 [INF] Hosting environment: Development
+2026-06-03 12:34:59.364 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-06-03 12:34:59.721 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-06-03 12:34:59.721 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-06-03 12:34:59.769 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 72.9316ms
+2026-06-03 12:34:59.844 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 150.0649ms
+2026-06-03 12:34:59.891 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-06-03 12:34:59.936 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 45.4894ms
+2026-06-03 12:35:09.103 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:35:09.109 +02:00 [INF] Physical files found: 0
+2026-06-03 12:35:19.118 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:35:19.120 +02:00 [INF] Physical files found: 0
+2026-06-03 12:35:29.113 +02:00 [INF] Heartbeat 2 at "2026-06-03T10:35:29.1022021Z"
+2026-06-03 12:35:29.123 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:35:29.125 +02:00 [INF] Physical files found: 0
+2026-06-03 12:35:39.134 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:35:39.138 +02:00 [INF] Physical files found: 0
+2026-06-03 12:39:45.366 +02:00 [INF] Heartbeat monitoring service started.
+2026-06-03 12:39:45.366 +02:00 [INF] File polling service started.
+2026-06-03 12:39:45.494 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:39:45.494 +02:00 [INF] Heartbeat 1 at "2026-06-03T10:39:45.4767198Z"
+2026-06-03 12:39:45.498 +02:00 [INF] Physical files found: 0
+2026-06-03 12:39:45.679 +02:00 [INF] Now listening on: https://localhost:7235
+2026-06-03 12:39:45.682 +02:00 [INF] Now listening on: http://localhost:5264
+2026-06-03 12:39:45.795 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-03 12:39:45.796 +02:00 [INF] Hosting environment: Development
+2026-06-03 12:39:45.798 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-06-03 12:39:46.546 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-06-03 12:39:46.546 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-06-03 12:39:46.593 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 73.0804ms
+2026-06-03 12:39:46.670 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 152.0773ms
+2026-06-03 12:39:46.716 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-06-03 12:39:46.765 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 50.3815ms
+2026-06-03 12:39:55.512 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:39:55.516 +02:00 [INF] Physical files found: 0
+2026-06-03 12:40:05.530 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:40:05.533 +02:00 [INF] Physical files found: 0
+2026-06-03 12:40:15.539 +02:00 [INF] Heartbeat 2 at "2026-06-03T10:40:15.5310986Z"
+2026-06-03 12:40:15.548 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:40:15.550 +02:00 [INF] Physical files found: 0
+2026-06-03 12:40:25.549 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:40:25.551 +02:00 [INF] Physical files found: 0
+2026-06-03 12:40:35.566 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:40:35.568 +02:00 [INF] Physical files found: 0
+2026-06-03 12:41:42.353 +02:00 [INF] Heartbeat monitoring service started.
+2026-06-03 12:41:42.353 +02:00 [INF] File polling service started.
+2026-06-03 12:41:42.455 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:41:42.467 +02:00 [INF] Heartbeat 1 at "2026-06-03T12:41:42.4482510+02:00"
+2026-06-03 12:41:42.467 +02:00 [INF] Physical files found: 0
+2026-06-03 12:41:42.634 +02:00 [INF] Now listening on: https://localhost:7235
+2026-06-03 12:41:42.636 +02:00 [INF] Now listening on: http://localhost:5264
+2026-06-03 12:41:42.742 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-03 12:41:42.744 +02:00 [INF] Hosting environment: Development
+2026-06-03 12:41:42.746 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-06-03 12:41:43.353 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-06-03 12:41:43.353 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-06-03 12:41:43.400 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 77.7914ms
+2026-06-03 12:41:43.469 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 147.584ms
+2026-06-03 12:41:43.512 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-06-03 12:41:43.564 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 51.4672ms
+2026-06-03 12:41:52.481 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:41:52.483 +02:00 [INF] Physical files found: 0
+2026-06-03 12:44:29.867 +02:00 [INF] Heartbeat monitoring service started.
+2026-06-03 12:44:29.867 +02:00 [INF] File polling service started.
+2026-06-03 12:44:29.984 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:44:29.984 +02:00 [INF] Heartbeat 1 at "2026-06-03T12:44:29.9711737+02:00"
+2026-06-03 12:44:29.995 +02:00 [INF] Physical files found: 0
+2026-06-03 12:44:30.209 +02:00 [INF] Now listening on: https://localhost:7235
+2026-06-03 12:44:30.212 +02:00 [INF] Now listening on: http://localhost:5264
+2026-06-03 12:44:30.553 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-03 12:44:30.557 +02:00 [INF] Hosting environment: Development
+2026-06-03 12:44:30.559 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-06-03 12:44:30.563 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-06-03 12:44:30.563 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-06-03 12:44:30.614 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 80.6842ms
+2026-06-03 12:44:30.689 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 157.0431ms
+2026-06-03 12:44:30.728 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-06-03 12:44:30.778 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 50.0752ms
+2026-06-03 12:44:40.005 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:44:40.008 +02:00 [INF] Physical files found: 0
+2026-06-03 12:44:50.017 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:44:50.018 +02:00 [INF] Physical files found: 0
+2026-06-03 12:45:00.044 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:45:00.054 +02:00 [INF] Physical files found: 0
+2026-06-03 12:45:00.062 +02:00 [INF] Heartbeat 2 at "2026-06-03T12:45:00.0156242+02:00"
+2026-06-03 12:45:10.055 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 12:45:10.059 +02:00 [INF] Physical files found: 0
+2026-06-03 13:00:56.113 +02:00 [INF] Heartbeat monitoring service started.
+2026-06-03 13:00:56.113 +02:00 [INF] File polling service started.
+2026-06-03 13:00:56.224 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 13:00:56.226 +02:00 [INF] Heartbeat 1 at "2026-06-03T13:00:56.2125491+02:00"
+2026-06-03 13:00:56.229 +02:00 [INF] Physical files found: 0
+2026-06-03 13:00:56.392 +02:00 [INF] Now listening on: https://localhost:7235
+2026-06-03 13:00:56.395 +02:00 [INF] Now listening on: http://localhost:5264
+2026-06-03 13:00:56.518 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-03 13:00:56.520 +02:00 [INF] Hosting environment: Development
+2026-06-03 13:00:56.522 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-06-03 13:00:57.197 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-06-03 13:00:57.197 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-06-03 13:00:57.237 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 70.6859ms
+2026-06-03 13:00:57.313 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 147.5691ms
+2026-06-03 13:00:57.357 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-06-03 13:00:57.403 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 45.7745ms
+2026-06-03 13:01:06.248 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 13:01:06.253 +02:00 [INF] Physical files found: 0
+2026-06-03 13:01:16.258 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 13:01:16.260 +02:00 [INF] Physical files found: 0
+2026-06-03 13:01:26.256 +02:00 [INF] Heartbeat 2 at "2026-06-03T13:01:26.2486565+02:00"
+2026-06-03 13:01:26.264 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 13:01:26.269 +02:00 [INF] Physical files found: 0
+2026-06-03 13:01:36.266 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 13:01:36.270 +02:00 [INF] Physical files found: 0
+2026-06-03 13:01:46.281 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 13:01:46.284 +02:00 [INF] Physical files found: 0
+2026-06-03 13:01:56.276 +02:00 [INF] Heartbeat 3 at "2026-06-03T13:01:56.2680830+02:00"
+2026-06-03 13:01:56.284 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test03
+2026-06-03 13:01:56.285 +02:00 [INF] Physical files found: 0

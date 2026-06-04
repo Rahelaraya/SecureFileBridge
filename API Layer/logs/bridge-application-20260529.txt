@@ -1,0 +1,966 @@
+2026-05-29 09:18:45.643 +02:00 [INF] Heartbeat monitoring service started.
+2026-05-29 09:18:45.643 +02:00 [INF] File polling service started.
+2026-05-29 09:18:45.752 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 09:18:45.756 +02:00 [INF] Heartbeat 1 at "2026-05-29T07:18:45.7465871Z"
+2026-05-29 09:18:45.757 +02:00 [INF] Physical files found: 0
+2026-05-29 09:18:46.099 +02:00 [INF] Now listening on: https://localhost:7235
+2026-05-29 09:18:46.103 +02:00 [INF] Now listening on: http://localhost:5264
+2026-05-29 09:18:46.244 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-29 09:18:46.247 +02:00 [INF] Hosting environment: Development
+2026-05-29 09:18:46.249 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-05-29 09:18:47.951 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-05-29 09:18:47.951 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-05-29 09:18:47.999 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 79.3454ms
+2026-05-29 09:18:48.135 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 215.6702ms
+2026-05-29 09:18:48.389 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-05-29 09:18:48.435 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 46.2426ms
+2026-05-29 09:18:55.772 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 09:18:55.775 +02:00 [INF] Physical files found: 0
+2026-05-29 09:19:05.795 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 09:19:05.798 +02:00 [INF] Physical files found: 0
+2026-05-29 09:19:15.777 +02:00 [INF] Heartbeat 2 at "2026-05-29T07:19:15.7700930Z"
+2026-05-29 09:19:15.798 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 09:19:15.800 +02:00 [INF] Physical files found: 0
+2026-05-29 09:19:16.149 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - null null
+2026-05-29 09:19:16.166 +02:00 [INF] Executing endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-05-29 09:19:16.193 +02:00 [INF] Route matched with {action = "GetFlowStatus", controller = "Files"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFlowStatus() on controller API_Layer.Controllers.FilesController (API Layer).
+2026-05-29 09:19:16.204 +02:00 [INF] Executing action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) - Validation state: "Valid"
+2026-05-29 09:19:16.214 +02:00 [INF] Executed action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 4.5248ms.
+2026-05-29 09:19:16.224 +02:00 [INF] Executing OkObjectResult, writing value of type 'Application_Layer.DTOs.FlowStatusResponse'.
+2026-05-29 09:19:16.245 +02:00 [INF] Executed action API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) in 42.8913ms
+2026-05-29 09:19:16.247 +02:00 [INF] Executed endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-05-29 09:19:16.248 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - 200 null application/json; charset=utf-8 100.348ms
+2026-05-29 10:14:18.867 +02:00 [INF] Heartbeat monitoring service started.
+2026-05-29 10:14:18.867 +02:00 [INF] File polling service started.
+2026-05-29 10:14:19.007 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:14:19.009 +02:00 [INF] Heartbeat 1 at "2026-05-29T08:14:18.9954097Z"
+2026-05-29 10:14:19.012 +02:00 [INF] Physical files found: 0
+2026-05-29 10:14:19.205 +02:00 [INF] Now listening on: https://localhost:7235
+2026-05-29 10:14:19.208 +02:00 [INF] Now listening on: http://localhost:5264
+2026-05-29 10:14:19.467 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-29 10:14:19.469 +02:00 [INF] Hosting environment: Development
+2026-05-29 10:14:19.471 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-05-29 10:14:20.196 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-05-29 10:14:20.196 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-05-29 10:14:20.250 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 82.569ms
+2026-05-29 10:14:20.403 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 236.1438ms
+2026-05-29 10:14:20.496 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-05-29 10:14:20.548 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 52.9334ms
+2026-05-29 10:14:29.027 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:14:29.031 +02:00 [INF] Physical files found: 0
+2026-05-29 10:14:39.032 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:14:39.035 +02:00 [INF] Physical files found: 0
+2026-05-29 10:14:43.449 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - null null
+2026-05-29 10:14:43.470 +02:00 [INF] Executing endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-05-29 10:14:43.502 +02:00 [INF] Route matched with {action = "GetFlowStatus", controller = "Files"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFlowStatus() on controller API_Layer.Controllers.FilesController (API Layer).
+2026-05-29 10:14:43.519 +02:00 [INF] Executing action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) - Validation state: "Valid"
+2026-05-29 10:14:43.528 +02:00 [INF] Executed action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 3.2259ms.
+2026-05-29 10:14:43.540 +02:00 [INF] Executing OkObjectResult, writing value of type 'Application_Layer.DTOs.FlowStatusResponse'.
+2026-05-29 10:14:43.558 +02:00 [INF] Executed action API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) in 47.9581ms
+2026-05-29 10:14:43.560 +02:00 [INF] Executed endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-05-29 10:14:43.561 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - 200 null application/json; charset=utf-8 113.2527ms
+2026-05-29 10:14:49.045 +02:00 [INF] Heartbeat 2 at "2026-05-29T08:14:49.0330726Z"
+2026-05-29 10:14:49.048 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:14:49.050 +02:00 [INF] Physical files found: 0
+2026-05-29 10:14:52.453 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/api/Health/status - null null
+2026-05-29 10:14:52.462 +02:00 [INF] Executing endpoint 'API_Layer.Controllers.HealthController.GetStatus (API Layer)'
+2026-05-29 10:14:52.473 +02:00 [INF] Route matched with {action = "GetStatus", controller = "Health"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStatus() on controller API_Layer.Controllers.HealthController (API Layer).
+2026-05-29 10:14:52.477 +02:00 [INF] Executing action method API_Layer.Controllers.HealthController.GetStatus (API Layer) - Validation state: "Valid"
+2026-05-29 10:14:52.483 +02:00 [INF] Health check completed: All components healthy
+2026-05-29 10:14:52.486 +02:00 [INF] Executed action method API_Layer.Controllers.HealthController.GetStatus (API Layer), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 6.9857ms.
+2026-05-29 10:14:52.489 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`6[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[Application_Layer.DTOs.ComponentHealth, Application Layer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-05-29 10:14:52.506 +02:00 [INF] Executed action API_Layer.Controllers.HealthController.GetStatus (API Layer) in 29.4218ms
+2026-05-29 10:14:52.510 +02:00 [INF] Executed endpoint 'API_Layer.Controllers.HealthController.GetStatus (API Layer)'
+2026-05-29 10:14:52.512 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/api/Health/status - 200 null application/json; charset=utf-8 59.3698ms
+2026-05-29 10:14:59.054 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:14:59.056 +02:00 [INF] Physical files found: 0
+2026-05-29 10:14:59.650 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/api/Health/heartbeat - null null
+2026-05-29 10:14:59.656 +02:00 [INF] Executing endpoint 'API_Layer.Controllers.HealthController.GetHeartbeat (API Layer)'
+2026-05-29 10:14:59.659 +02:00 [INF] Route matched with {action = "GetHeartbeat", controller = "Health"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetHeartbeat() on controller API_Layer.Controllers.HealthController (API Layer).
+2026-05-29 10:14:59.663 +02:00 [INF] Executing action method API_Layer.Controllers.HealthController.GetHeartbeat (API Layer) - Validation state: "Valid"
+2026-05-29 10:14:59.665 +02:00 [INF] Executed action method API_Layer.Controllers.HealthController.GetHeartbeat (API Layer), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.5699ms.
+2026-05-29 10:14:59.668 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`4[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-05-29 10:14:59.673 +02:00 [INF] Executed action API_Layer.Controllers.HealthController.GetHeartbeat (API Layer) in 10.3747ms
+2026-05-29 10:14:59.675 +02:00 [INF] Executed endpoint 'API_Layer.Controllers.HealthController.GetHeartbeat (API Layer)'
+2026-05-29 10:14:59.677 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/api/Health/heartbeat - 200 null application/json; charset=utf-8 27.2532ms
+2026-05-29 10:21:20.024 +02:00 [INF] File polling service started.
+2026-05-29 10:21:20.024 +02:00 [INF] Heartbeat monitoring service started.
+2026-05-29 10:21:20.150 +02:00 [INF] Heartbeat 1 at "2026-05-29T08:21:20.1362581Z"
+2026-05-29 10:21:20.150 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:21:20.161 +02:00 [INF] Physical files found: 0
+2026-05-29 10:21:20.299 +02:00 [INF] Now listening on: https://localhost:7235
+2026-05-29 10:21:20.302 +02:00 [INF] Now listening on: http://localhost:5264
+2026-05-29 10:21:20.526 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-29 10:21:20.529 +02:00 [INF] Hosting environment: Development
+2026-05-29 10:21:20.531 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-05-29 10:21:21.216 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-05-29 10:21:21.216 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-05-29 10:21:21.264 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 78.65ms
+2026-05-29 10:21:21.400 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 221.7687ms
+2026-05-29 10:21:21.452 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-05-29 10:21:21.502 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 50.9943ms
+2026-05-29 10:21:30.177 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:21:30.183 +02:00 [INF] Physical files found: 0
+2026-05-29 10:25:37.146 +02:00 [INF] Heartbeat monitoring service started.
+2026-05-29 10:25:37.146 +02:00 [INF] File polling service started.
+2026-05-29 10:25:37.249 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:25:37.255 +02:00 [INF] Heartbeat 1 at "2026-05-29T08:25:37.2414965Z"
+2026-05-29 10:25:37.256 +02:00 [INF] Physical files found: 1
+2026-05-29 10:25:37.265 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test02\test2.docx
+2026-05-29 10:25:37.618 +02:00 [INF] Now listening on: https://localhost:7235
+2026-05-29 10:25:37.622 +02:00 [INF] Now listening on: http://localhost:5264
+2026-05-29 10:25:37.929 +02:00 [ERR] Failed to publish file message. FileName: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> RabbitMQ.Client.Exceptions.AuthenticationFailureException: ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.
+   at RabbitMQ.Client.Framing.Connection.StartAndTuneAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+2026-05-29 10:25:38.297 +02:00 [ERR] Failed to publish file: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> RabbitMQ.Client.Exceptions.AuthenticationFailureException: ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.
+   at RabbitMQ.Client.Framing.Connection.StartAndTuneAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+   at Infrastructure_Layer.Services.FilePollingService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\FilePollingService.cs:line 53
+2026-05-29 10:25:38.397 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-29 10:25:38.399 +02:00 [INF] Hosting environment: Development
+2026-05-29 10:25:38.402 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-05-29 10:25:38.409 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-05-29 10:25:38.409 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-05-29 10:25:38.444 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 62.6614ms
+2026-05-29 10:25:38.484 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 103.8314ms
+2026-05-29 10:25:38.524 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-05-29 10:25:38.570 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 45.9083ms
+2026-05-29 10:25:47.914 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - null null
+2026-05-29 10:25:47.933 +02:00 [INF] Executing endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-05-29 10:25:47.959 +02:00 [INF] Route matched with {action = "GetFlowStatus", controller = "Files"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFlowStatus() on controller API_Layer.Controllers.FilesController (API Layer).
+2026-05-29 10:25:47.970 +02:00 [INF] Executing action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) - Validation state: "Valid"
+2026-05-29 10:25:47.978 +02:00 [INF] Executed action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 2.9992ms.
+2026-05-29 10:25:47.991 +02:00 [INF] Executing OkObjectResult, writing value of type 'Application_Layer.DTOs.FlowStatusResponse'.
+2026-05-29 10:25:48.016 +02:00 [INF] Executed action API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) in 50.1091ms
+2026-05-29 10:25:48.021 +02:00 [INF] Executed endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-05-29 10:25:48.023 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - 200 null application/json; charset=utf-8 109.5477ms
+2026-05-29 10:25:48.320 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:25:48.323 +02:00 [INF] Physical files found: 1
+2026-05-29 10:25:48.325 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test02\test2.docx
+2026-05-29 10:25:48.573 +02:00 [ERR] Failed to publish file message. FileName: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> RabbitMQ.Client.Exceptions.AuthenticationFailureException: ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.
+   at RabbitMQ.Client.Framing.Connection.StartAndTuneAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+2026-05-29 10:25:48.647 +02:00 [ERR] Failed to publish file: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> RabbitMQ.Client.Exceptions.AuthenticationFailureException: ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.
+   at RabbitMQ.Client.Framing.Connection.StartAndTuneAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+   at Infrastructure_Layer.Services.FilePollingService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\FilePollingService.cs:line 53
+2026-05-29 10:25:58.670 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:25:58.674 +02:00 [INF] Physical files found: 1
+2026-05-29 10:25:58.678 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test02\test2.docx
+2026-05-29 10:25:58.944 +02:00 [ERR] Failed to publish file message. FileName: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> RabbitMQ.Client.Exceptions.AuthenticationFailureException: ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.
+   at RabbitMQ.Client.Framing.Connection.StartAndTuneAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+2026-05-29 10:25:59.020 +02:00 [ERR] Failed to publish file: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> RabbitMQ.Client.Exceptions.AuthenticationFailureException: ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.
+   at RabbitMQ.Client.Framing.Connection.StartAndTuneAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+   at Infrastructure_Layer.Services.FilePollingService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\FilePollingService.cs:line 53
+2026-05-29 10:26:00.085 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/api/Health/status - null null
+2026-05-29 10:26:00.094 +02:00 [INF] Executing endpoint 'API_Layer.Controllers.HealthController.GetStatus (API Layer)'
+2026-05-29 10:26:00.101 +02:00 [INF] Route matched with {action = "GetStatus", controller = "Health"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStatus() on controller API_Layer.Controllers.HealthController (API Layer).
+2026-05-29 10:26:00.106 +02:00 [INF] Executing action method API_Layer.Controllers.HealthController.GetStatus (API Layer) - Validation state: "Valid"
+2026-05-29 10:26:00.111 +02:00 [INF] Health check completed: All components healthy
+2026-05-29 10:26:00.114 +02:00 [INF] Executed action method API_Layer.Controllers.HealthController.GetStatus (API Layer), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 5.6315ms.
+2026-05-29 10:26:00.117 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`6[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[Application_Layer.DTOs.ComponentHealth, Application Layer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-05-29 10:26:00.134 +02:00 [INF] Executed action API_Layer.Controllers.HealthController.GetStatus (API Layer) in 28.6354ms
+2026-05-29 10:26:00.139 +02:00 [INF] Executed endpoint 'API_Layer.Controllers.HealthController.GetStatus (API Layer)'
+2026-05-29 10:26:00.142 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/api/Health/status - 200 null application/json; charset=utf-8 57.3051ms
+2026-05-29 10:26:07.280 +02:00 [INF] Heartbeat 2 at "2026-05-29T08:26:07.2726026Z"
+2026-05-29 10:26:09.004 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/api/Health/heartbeat - null null
+2026-05-29 10:26:09.011 +02:00 [INF] Executing endpoint 'API_Layer.Controllers.HealthController.GetHeartbeat (API Layer)'
+2026-05-29 10:26:09.024 +02:00 [INF] Route matched with {action = "GetHeartbeat", controller = "Health"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetHeartbeat() on controller API_Layer.Controllers.HealthController (API Layer).
+2026-05-29 10:26:09.028 +02:00 [INF] Executing action method API_Layer.Controllers.HealthController.GetHeartbeat (API Layer) - Validation state: "Valid"
+2026-05-29 10:26:09.031 +02:00 [INF] Executed action method API_Layer.Controllers.HealthController.GetHeartbeat (API Layer), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.4813ms.
+2026-05-29 10:26:09.034 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`4[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-05-29 10:26:09.038 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:26:09.040 +02:00 [INF] Physical files found: 1
+2026-05-29 10:26:09.041 +02:00 [INF] Executed action API_Layer.Controllers.HealthController.GetHeartbeat (API Layer) in 12.7695ms
+2026-05-29 10:26:09.042 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test02\test2.docx
+2026-05-29 10:26:09.045 +02:00 [INF] Executed endpoint 'API_Layer.Controllers.HealthController.GetHeartbeat (API Layer)'
+2026-05-29 10:26:09.050 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/api/Health/heartbeat - 200 null application/json; charset=utf-8 47.2393ms
+2026-05-29 10:26:09.292 +02:00 [ERR] Failed to publish file message. FileName: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> RabbitMQ.Client.Exceptions.AuthenticationFailureException: ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.
+   at RabbitMQ.Client.Framing.Connection.StartAndTuneAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+2026-05-29 10:26:09.370 +02:00 [ERR] Failed to publish file: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> RabbitMQ.Client.Exceptions.AuthenticationFailureException: ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.
+   at RabbitMQ.Client.Framing.Connection.StartAndTuneAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+   at Infrastructure_Layer.Services.FilePollingService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\FilePollingService.cs:line 53
+2026-05-29 10:36:42.760 +02:00 [INF] File polling service started.
+2026-05-29 10:36:42.760 +02:00 [INF] Heartbeat monitoring service started.
+2026-05-29 10:36:42.877 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:36:42.878 +02:00 [INF] Heartbeat 1 at "2026-05-29T08:36:42.8663692Z"
+2026-05-29 10:36:42.881 +02:00 [INF] Physical files found: 1
+2026-05-29 10:36:42.884 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test02\test2.docx
+2026-05-29 10:36:43.033 +02:00 [INF] Now listening on: https://localhost:7235
+2026-05-29 10:36:43.036 +02:00 [INF] Now listening on: http://localhost:5264
+2026-05-29 10:36:43.138 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-29 10:36:43.143 +02:00 [INF] Hosting environment: Development
+2026-05-29 10:36:43.145 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-05-29 10:36:43.549 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-05-29 10:36:43.549 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-05-29 10:36:43.595 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 66.525ms
+2026-05-29 10:36:43.635 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 107.5589ms
+2026-05-29 10:36:43.682 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-05-29 10:36:43.729 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 47.3675ms
+2026-05-29 10:36:47.437 +02:00 [ERR] Failed to publish file message. FileName: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed, host 127.0.0.1:5672)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed, host 127.0.0.1:5672
+ ---> System.Net.Sockets.SocketException (10061): Det gick inte att göra en anslutning eftersom måldatorn aktivt nekade det.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.OpenAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.CreateAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandlerAsync(AmqpTcpEndpoint endpoint, CancellationToken cancellationToken)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+2026-05-29 10:36:47.606 +02:00 [ERR] Failed to publish file: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed, host 127.0.0.1:5672)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed, host 127.0.0.1:5672
+ ---> System.Net.Sockets.SocketException (10061): Det gick inte att göra en anslutning eftersom måldatorn aktivt nekade det.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.OpenAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.CreateAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandlerAsync(AmqpTcpEndpoint endpoint, CancellationToken cancellationToken)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+   at Infrastructure_Layer.Services.FilePollingService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\FilePollingService.cs:line 53
+2026-05-29 10:36:57.632 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:36:57.634 +02:00 [INF] Physical files found: 1
+2026-05-29 10:36:57.635 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test02\test2.docx
+2026-05-29 10:37:02.034 +02:00 [ERR] Failed to publish file message. FileName: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed, host 127.0.0.1:5672)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed, host 127.0.0.1:5672
+ ---> System.Net.Sockets.SocketException (10061): Det gick inte att göra en anslutning eftersom måldatorn aktivt nekade det.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.OpenAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.CreateAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandlerAsync(AmqpTcpEndpoint endpoint, CancellationToken cancellationToken)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+2026-05-29 10:37:02.127 +02:00 [ERR] Failed to publish file: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed, host 127.0.0.1:5672)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed, host 127.0.0.1:5672
+ ---> System.Net.Sockets.SocketException (10061): Det gick inte att göra en anslutning eftersom måldatorn aktivt nekade det.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.OpenAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.CreateAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandlerAsync(AmqpTcpEndpoint endpoint, CancellationToken cancellationToken)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+   at Infrastructure_Layer.Services.FilePollingService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\FilePollingService.cs:line 53
+2026-05-29 10:37:05.696 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - null null
+2026-05-29 10:37:05.714 +02:00 [INF] Executing endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-05-29 10:37:05.735 +02:00 [INF] Route matched with {action = "GetFlowStatus", controller = "Files"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFlowStatus() on controller API_Layer.Controllers.FilesController (API Layer).
+2026-05-29 10:37:05.744 +02:00 [INF] Executing action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) - Validation state: "Valid"
+2026-05-29 10:37:05.751 +02:00 [INF] Executed action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 2.2889ms.
+2026-05-29 10:37:05.760 +02:00 [INF] Executing OkObjectResult, writing value of type 'Application_Layer.DTOs.FlowStatusResponse'.
+2026-05-29 10:37:05.780 +02:00 [INF] Executed action API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) in 36.2621ms
+2026-05-29 10:37:05.782 +02:00 [INF] Executed endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-05-29 10:37:05.783 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - 200 null application/json; charset=utf-8 87.3436ms
+2026-05-29 10:37:12.155 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:37:12.157 +02:00 [INF] Physical files found: 1
+2026-05-29 10:37:12.160 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test02\test2.docx
+2026-05-29 10:37:12.902 +02:00 [INF] Heartbeat 2 at "2026-05-29T08:37:12.8955687Z"
+2026-05-29 10:37:16.566 +02:00 [ERR] Failed to publish file message. FileName: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed, host 127.0.0.1:5672)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed, host 127.0.0.1:5672
+ ---> System.Net.Sockets.SocketException (10061): Det gick inte att göra en anslutning eftersom måldatorn aktivt nekade det.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.OpenAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.CreateAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandlerAsync(AmqpTcpEndpoint endpoint, CancellationToken cancellationToken)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+2026-05-29 10:37:16.669 +02:00 [ERR] Failed to publish file: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed, host 127.0.0.1:5672)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed, host 127.0.0.1:5672
+ ---> System.Net.Sockets.SocketException (10061): Det gick inte att göra en anslutning eftersom måldatorn aktivt nekade det.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.OpenAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.CreateAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandlerAsync(AmqpTcpEndpoint endpoint, CancellationToken cancellationToken)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+   at Infrastructure_Layer.Services.FilePollingService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\FilePollingService.cs:line 53
+2026-05-29 10:37:26.688 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:37:26.690 +02:00 [INF] Physical files found: 1
+2026-05-29 10:37:26.691 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test02\test2.docx
+2026-05-29 10:37:31.079 +02:00 [ERR] Failed to publish file message. FileName: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed, host 127.0.0.1:5672)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed, host 127.0.0.1:5672
+ ---> System.Net.Sockets.SocketException (10061): Det gick inte att göra en anslutning eftersom måldatorn aktivt nekade det.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.OpenAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.CreateAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandlerAsync(AmqpTcpEndpoint endpoint, CancellationToken cancellationToken)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+2026-05-29 10:37:31.159 +02:00 [ERR] Failed to publish file: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed, host 127.0.0.1:5672)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed, host 127.0.0.1:5672
+ ---> System.Net.Sockets.SocketException (10061): Det gick inte att göra en anslutning eftersom måldatorn aktivt nekade det.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.OpenAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.CreateAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandlerAsync(AmqpTcpEndpoint endpoint, CancellationToken cancellationToken)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+   at Infrastructure_Layer.Services.FilePollingService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\FilePollingService.cs:line 53
+2026-05-29 10:37:41.164 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:37:41.167 +02:00 [INF] Physical files found: 1
+2026-05-29 10:37:41.168 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test02\test2.docx
+2026-05-29 10:37:42.906 +02:00 [INF] Heartbeat 3 at "2026-05-29T08:37:42.8993941Z"
+2026-05-29 10:37:45.513 +02:00 [ERR] Failed to publish file message. FileName: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed, host 127.0.0.1:5672)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed, host 127.0.0.1:5672
+ ---> System.Net.Sockets.SocketException (10061): Det gick inte att göra en anslutning eftersom måldatorn aktivt nekade det.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.OpenAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.CreateAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandlerAsync(AmqpTcpEndpoint endpoint, CancellationToken cancellationToken)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+2026-05-29 10:37:45.593 +02:00 [ERR] Failed to publish file: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed, host 127.0.0.1:5672)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed, host 127.0.0.1:5672
+ ---> System.Net.Sockets.SocketException (10061): Det gick inte att göra en anslutning eftersom måldatorn aktivt nekade det.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFactory.ConnectUsingAddressFamilyAsync(IPEndPoint endpoint, Func`2 socketFactory, AddressFamily family, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFactory.OpenAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.CreateAsync(AmqpTcpEndpoint amqpTcpEndpoint, Func`2 socketFactory, TimeSpan connectionTimeout, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandlerAsync(AmqpTcpEndpoint endpoint, CancellationToken cancellationToken)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOneAsync[T](IEndpointResolver resolver, Func`3 selector, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+   at Infrastructure_Layer.Services.FilePollingService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\FilePollingService.cs:line 53
+2026-05-29 10:39:34.546 +02:00 [INF] Heartbeat monitoring service started.
+2026-05-29 10:39:34.546 +02:00 [INF] File polling service started.
+2026-05-29 10:39:34.651 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:39:34.652 +02:00 [INF] Heartbeat 1 at "2026-05-29T08:39:34.6394767Z"
+2026-05-29 10:39:34.655 +02:00 [INF] Physical files found: 1
+2026-05-29 10:39:34.666 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test02\test2.docx
+2026-05-29 10:39:34.889 +02:00 [INF] Now listening on: https://localhost:7235
+2026-05-29 10:39:34.892 +02:00 [INF] Now listening on: http://localhost:5264
+2026-05-29 10:39:35.372 +02:00 [ERR] Failed to publish file message. FileName: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.IO.IOException: Unable to read data from the transport connection: En etablerad anslutning avbröts av programvaran i värddatorn..
+ ---> System.Net.Sockets.SocketException (10053): En etablerad anslutning avbröts av programvaran i värddatorn.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.CreateException(SocketError error, Boolean forAsyncThrow)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ReceiveAsync(Socket socket, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.ReceiveAsync(Memory`1 buffer, SocketFlags socketFlags, Boolean fromNetworkStream, CancellationToken cancellationToken)
+   at System.Net.Sockets.NetworkStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.IO.Pipelines.StreamPipeReader.<ReadInternalAsync>g__Core|39_0(StreamPipeReader reader, Nullable`1 minimumSize, CancellationTokenSource tokenSource, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at System.IO.Pipelines.StreamPipeReader.<ReadInternalAsync>g__Core|39_0(StreamPipeReader reader, Nullable`1 minimumSize, CancellationTokenSource tokenSource, CancellationToken cancellationToken)
+   at System.IO.Pipelines.StreamPipeReader.ReadInternalAsync(Nullable`1 minimumSize, CancellationToken cancellationToken)
+   at System.IO.Pipelines.StreamPipeReader.ReadAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFromPipeAsync(PipeReader reader, UInt32 maxInboundMessageBodySize, InboundFrame frame, CancellationToken mainLoopCancellationToken)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFromPipeAsync(PipeReader reader, UInt32 maxInboundMessageBodySize, InboundFrame frame, CancellationToken mainLoopCancellationToken)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrameAsync(InboundFrame frame, CancellationToken mainLoopCancellationToken)
+   at RabbitMQ.Client.Framing.Connection.ReceiveLoopAsync(CancellationToken mainLoopCancellationToken)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at RabbitMQ.Client.Framing.Connection.ReceiveLoopAsync(CancellationToken mainLoopCancellationToken)
+   at RabbitMQ.Client.Framing.Connection.MainLoop()
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at RabbitMQ.Client.Framing.Connection.MainLoop()
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+--- End of stack trace from previous location ---
+
+   --- End of inner exception stack trace ---
+   at System.IO.Pipelines.StreamPipeReader.<ReadInternalAsync>g__Core|39_0(StreamPipeReader reader, Nullable`1 minimumSize, CancellationTokenSource tokenSource, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFromPipeAsync(PipeReader reader, UInt32 maxInboundMessageBodySize, InboundFrame frame, CancellationToken mainLoopCancellationToken)
+   at RabbitMQ.Client.Framing.Connection.ReceiveLoopAsync(CancellationToken mainLoopCancellationToken)
+   at RabbitMQ.Client.Framing.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Connection.StartAndTuneAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+2026-05-29 10:39:35.509 +02:00 [ERR] Failed to publish file: test2.docx
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.IO.IOException: Unable to read data from the transport connection: En etablerad anslutning avbröts av programvaran i värddatorn..
+ ---> System.Net.Sockets.SocketException (10053): En etablerad anslutning avbröts av programvaran i värddatorn.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.CreateException(SocketError error, Boolean forAsyncThrow)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ReceiveAsync(Socket socket, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.ReceiveAsync(Memory`1 buffer, SocketFlags socketFlags, Boolean fromNetworkStream, CancellationToken cancellationToken)
+   at System.Net.Sockets.NetworkStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.IO.Pipelines.StreamPipeReader.<ReadInternalAsync>g__Core|39_0(StreamPipeReader reader, Nullable`1 minimumSize, CancellationTokenSource tokenSource, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at System.IO.Pipelines.StreamPipeReader.<ReadInternalAsync>g__Core|39_0(StreamPipeReader reader, Nullable`1 minimumSize, CancellationTokenSource tokenSource, CancellationToken cancellationToken)
+   at System.IO.Pipelines.StreamPipeReader.ReadInternalAsync(Nullable`1 minimumSize, CancellationToken cancellationToken)
+   at System.IO.Pipelines.StreamPipeReader.ReadAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFromPipeAsync(PipeReader reader, UInt32 maxInboundMessageBodySize, InboundFrame frame, CancellationToken mainLoopCancellationToken)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFromPipeAsync(PipeReader reader, UInt32 maxInboundMessageBodySize, InboundFrame frame, CancellationToken mainLoopCancellationToken)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrameAsync(InboundFrame frame, CancellationToken mainLoopCancellationToken)
+   at RabbitMQ.Client.Framing.Connection.ReceiveLoopAsync(CancellationToken mainLoopCancellationToken)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at RabbitMQ.Client.Framing.Connection.ReceiveLoopAsync(CancellationToken mainLoopCancellationToken)
+   at RabbitMQ.Client.Framing.Connection.MainLoop()
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at RabbitMQ.Client.Framing.Connection.MainLoop()
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+--- End of stack trace from previous location ---
+
+   --- End of inner exception stack trace ---
+   at System.IO.Pipelines.StreamPipeReader.<ReadInternalAsync>g__Core|39_0(StreamPipeReader reader, Nullable`1 minimumSize, CancellationTokenSource tokenSource, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFromPipeAsync(PipeReader reader, UInt32 maxInboundMessageBodySize, InboundFrame frame, CancellationToken mainLoopCancellationToken)
+   at RabbitMQ.Client.Framing.Connection.ReceiveLoopAsync(CancellationToken mainLoopCancellationToken)
+   at RabbitMQ.Client.Framing.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Connection.StartAndTuneAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.Connection.OpenAsync(CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Framing.AutorecoveringConnection.CreateAsync(ConnectionConfig config, IEndpointResolver endpoints, CancellationToken cancellationToken)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnectionAsync(IEndpointResolver endpointResolver, String clientProvidedName, CancellationToken cancellationToken)
+   at Infrastructure_Layer.Services.RabbitMqPublisher.PublishFileMessageAsync(FileEntity file) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\RabbitMqPublisher.cs:line 58
+   at Infrastructure_Layer.Services.FilePollingService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\Rahel\source\repos\SecureFileBridge\Infrastructure Layer\Services\FilePollingService.cs:line 53
+2026-05-29 10:39:35.558 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-29 10:39:35.560 +02:00 [INF] Hosting environment: Development
+2026-05-29 10:39:35.562 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-05-29 10:39:35.583 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-05-29 10:39:35.583 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-05-29 10:39:35.671 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 122.219ms
+2026-05-29 10:39:35.713 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 165.1272ms
+2026-05-29 10:39:35.763 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-05-29 10:39:35.805 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 42.1294ms
+2026-05-29 10:39:40.172 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - null null
+2026-05-29 10:39:40.191 +02:00 [INF] Executing endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-05-29 10:39:40.215 +02:00 [INF] Route matched with {action = "GetFlowStatus", controller = "Files"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFlowStatus() on controller API_Layer.Controllers.FilesController (API Layer).
+2026-05-29 10:39:40.224 +02:00 [INF] Executing action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) - Validation state: "Valid"
+2026-05-29 10:39:40.231 +02:00 [INF] Executed action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 2.3774ms.
+2026-05-29 10:39:40.241 +02:00 [INF] Executing OkObjectResult, writing value of type 'Application_Layer.DTOs.FlowStatusResponse'.
+2026-05-29 10:39:40.259 +02:00 [INF] Executed action API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) in 37.9969ms
+2026-05-29 10:39:40.261 +02:00 [INF] Executed endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-05-29 10:39:40.263 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - 200 null application/json; charset=utf-8 91.3822ms
+2026-05-29 10:39:45.538 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:39:45.541 +02:00 [INF] Physical files found: 1
+2026-05-29 10:39:45.542 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test02\test2.docx
+2026-05-29 10:39:45.689 +02:00 [INF] File message published successfully. FileName: test2.docx
+2026-05-29 10:39:45.747 +02:00 [INF] File published to RabbitMQ: test2.docx
+2026-05-29 10:39:45.751 +02:00 [INF] File moved to processed folder: test2.docx
+2026-05-29 10:40:33.355 +02:00 [INF] Heartbeat monitoring service started.
+2026-05-29 10:40:33.355 +02:00 [INF] File polling service started.
+2026-05-29 10:40:33.478 +02:00 [INF] Heartbeat 1 at "2026-05-29T08:40:33.4650323Z"
+2026-05-29 10:40:33.478 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:40:33.494 +02:00 [INF] Physical files found: 0
+2026-05-29 10:40:33.663 +02:00 [INF] Now listening on: https://localhost:7235
+2026-05-29 10:40:33.666 +02:00 [INF] Now listening on: http://localhost:5264
+2026-05-29 10:40:33.766 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-29 10:40:33.769 +02:00 [INF] Hosting environment: Development
+2026-05-29 10:40:33.771 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-05-29 10:40:34.495 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-05-29 10:40:34.495 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-05-29 10:40:34.547 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 87.6097ms
+2026-05-29 10:40:34.622 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 164.0737ms
+2026-05-29 10:40:34.669 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-05-29 10:40:34.719 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 49.9096ms
+2026-05-29 10:40:43.508 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:40:43.512 +02:00 [INF] Physical files found: 0
+2026-05-29 10:40:53.527 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:40:53.530 +02:00 [INF] Physical files found: 0
+2026-05-29 10:41:03.511 +02:00 [INF] Heartbeat 2 at "2026-05-29T08:41:03.5052755Z"
+2026-05-29 10:41:03.537 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:41:03.539 +02:00 [INF] Physical files found: 0
+2026-05-29 10:41:13.550 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:41:13.556 +02:00 [INF] Physical files found: 0
+2026-05-29 10:41:23.570 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:41:23.575 +02:00 [INF] Physical files found: 0
+2026-05-29 10:41:33.514 +02:00 [INF] Heartbeat 3 at "2026-05-29T08:41:33.5070935Z"
+2026-05-29 10:41:33.591 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:41:33.593 +02:00 [INF] Physical files found: 0
+2026-05-29 10:41:43.594 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:41:43.596 +02:00 [INF] Physical files found: 0
+2026-05-29 10:41:53.607 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:41:53.610 +02:00 [INF] Physical files found: 0
+2026-05-29 10:42:03.529 +02:00 [INF] Heartbeat 4 at "2026-05-29T08:42:03.5181980Z"
+2026-05-29 10:42:03.624 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:42:03.627 +02:00 [INF] Physical files found: 0
+2026-05-29 10:42:13.638 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:42:13.641 +02:00 [INF] Physical files found: 0
+2026-05-29 10:42:23.649 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:42:23.658 +02:00 [INF] Physical files found: 0
+2026-05-29 10:42:33.540 +02:00 [INF] Heartbeat 5 at "2026-05-29T08:42:33.5298706Z"
+2026-05-29 10:42:33.686 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 10:42:33.689 +02:00 [INF] Physical files found: 0
+2026-05-29 11:19:16.388 +02:00 [INF] File polling service started.
+2026-05-29 11:19:16.388 +02:00 [INF] Heartbeat monitoring service started.
+2026-05-29 11:19:16.509 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 11:19:16.521 +02:00 [INF] Physical files found: 1
+2026-05-29 11:19:16.521 +02:00 [INF] Heartbeat 1 at "2026-05-29T09:19:16.5039093Z"
+2026-05-29 11:19:16.525 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test02\Skärmbild 2026-04-27 094804.png
+2026-05-29 11:19:16.871 +02:00 [INF] Now listening on: https://localhost:7235
+2026-05-29 11:19:16.874 +02:00 [INF] Now listening on: http://localhost:5264
+2026-05-29 11:19:17.004 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-29 11:19:17.006 +02:00 [INF] Hosting environment: Development
+2026-05-29 11:19:17.007 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-05-29 11:19:17.024 +02:00 [INF] File message published successfully. FileName: Skärmbild 2026-04-27 094804.png
+2026-05-29 11:19:17.141 +02:00 [INF] File published to RabbitMQ: Skärmbild 2026-04-27 094804.png
+2026-05-29 11:19:17.153 +02:00 [INF] File moved to processed folder: Skärmbild 2026-04-27 094804.png
+2026-05-29 11:19:17.604 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-05-29 11:19:17.604 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-05-29 11:19:17.646 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 62.7583ms
+2026-05-29 11:19:17.686 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 104.7962ms
+2026-05-29 11:19:17.734 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-05-29 11:19:17.772 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 38.6564ms
+2026-05-29 11:19:23.745 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - null null
+2026-05-29 11:19:23.765 +02:00 [INF] Executing endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-05-29 11:19:23.789 +02:00 [INF] Route matched with {action = "GetFlowStatus", controller = "Files"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFlowStatus() on controller API_Layer.Controllers.FilesController (API Layer).
+2026-05-29 11:19:23.800 +02:00 [INF] Executing action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) - Validation state: "Valid"
+2026-05-29 11:19:23.809 +02:00 [INF] Executed action method API_Layer.Controllers.FilesController.GetFlowStatus (API Layer), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 3.3642ms.
+2026-05-29 11:19:23.823 +02:00 [INF] Executing OkObjectResult, writing value of type 'Application_Layer.DTOs.FlowStatusResponse'.
+2026-05-29 11:19:23.842 +02:00 [INF] Executed action API_Layer.Controllers.FilesController.GetFlowStatus (API Layer) in 45.2384ms
+2026-05-29 11:19:23.844 +02:00 [INF] Executed endpoint 'API_Layer.Controllers.FilesController.GetFlowStatus (API Layer)'
+2026-05-29 11:19:23.848 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/api/Files/Fileflow-status - 200 null application/json; charset=utf-8 103.2686ms
+2026-05-29 11:19:27.159 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 11:19:27.167 +02:00 [INF] Physical files found: 1
+2026-05-29 11:19:27.169 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test02\Skärmbild 2026-05-25 145606.png
+2026-05-29 11:19:27.250 +02:00 [INF] File message published successfully. FileName: Skärmbild 2026-05-25 145606.png
+2026-05-29 11:19:27.305 +02:00 [INF] File published to RabbitMQ: Skärmbild 2026-05-25 145606.png
+2026-05-29 11:19:27.309 +02:00 [INF] File moved to processed folder: Skärmbild 2026-05-25 145606.png
+2026-05-29 11:19:37.335 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 11:19:37.338 +02:00 [INF] Physical files found: 0
+2026-05-29 11:19:46.570 +02:00 [INF] Heartbeat 2 at "2026-05-29T09:19:46.5610401Z"
+2026-05-29 11:19:47.342 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 11:19:47.344 +02:00 [INF] Physical files found: 0
+2026-05-29 11:19:57.350 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 11:19:57.353 +02:00 [INF] Physical files found: 0
+2026-05-29 11:46:50.306 +02:00 [INF] Heartbeat monitoring service started.
+2026-05-29 11:46:50.306 +02:00 [INF] File polling service started.
+2026-05-29 11:46:50.414 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 11:46:50.415 +02:00 [INF] Heartbeat 1 at "2026-05-29T09:46:50.4016165Z"
+2026-05-29 11:46:50.417 +02:00 [INF] Physical files found: 2
+2026-05-29 11:46:50.420 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test02\test2.docx
+2026-05-29 11:46:50.449 +02:00 [INF] Physical file: C:\Users\Rahel\OneDrive\Skrivbord\Test02\TestTexs1.docx
+2026-05-29 11:46:50.602 +02:00 [INF] Now listening on: https://localhost:7235
+2026-05-29 11:46:50.605 +02:00 [INF] Now listening on: http://localhost:5264
+2026-05-29 11:46:51.000 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-29 11:46:51.001 +02:00 [INF] Hosting environment: Development
+2026-05-29 11:46:51.003 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-05-29 11:46:51.002 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-05-29 11:46:51.002 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-05-29 11:46:51.022 +02:00 [INF] File message published successfully. FileName: test2.docx
+2026-05-29 11:46:51.064 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 88.3574ms
+2026-05-29 11:46:51.117 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 142.2992ms
+2026-05-29 11:46:51.136 +02:00 [INF] File published to RabbitMQ: test2.docx
+2026-05-29 11:46:51.141 +02:00 [INF] File moved to processed folder: test2.docx
+2026-05-29 11:46:51.168 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-05-29 11:46:51.208 +02:00 [INF] File message published successfully. FileName: TestTexs1.docx
+2026-05-29 11:46:51.220 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 51.9527ms
+2026-05-29 11:46:51.262 +02:00 [INF] File published to RabbitMQ: TestTexs1.docx
+2026-05-29 11:46:51.264 +02:00 [INF] File moved to processed folder: TestTexs1.docx
+2026-05-29 11:47:01.276 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 11:47:01.280 +02:00 [INF] Physical files found: 0
+2026-05-29 11:47:11.281 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 11:47:11.284 +02:00 [INF] Physical files found: 0
+2026-05-29 11:47:20.461 +02:00 [INF] Heartbeat 2 at "2026-05-29T09:47:20.4380500Z"
+2026-05-29 11:47:21.299 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 11:47:21.301 +02:00 [INF] Physical files found: 0
+2026-05-29 11:47:31.307 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 11:47:31.311 +02:00 [INF] Physical files found: 0
+2026-05-29 11:47:41.316 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 11:47:41.319 +02:00 [INF] Physical files found: 0
+2026-05-29 12:37:46.930 +02:00 [INF] Heartbeat monitoring service started.
+2026-05-29 12:37:46.930 +02:00 [INF] File polling service started.
+2026-05-29 12:37:47.052 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:37:47.054 +02:00 [INF] Heartbeat 1 at "2026-05-29T10:37:47.0444504Z"
+2026-05-29 12:37:47.058 +02:00 [INF] Physical files found: 0
+2026-05-29 12:37:47.261 +02:00 [INF] Now listening on: https://localhost:7235
+2026-05-29 12:37:47.264 +02:00 [INF] Now listening on: http://localhost:5264
+2026-05-29 12:37:47.630 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-29 12:37:47.632 +02:00 [INF] Hosting environment: Development
+2026-05-29 12:37:47.634 +02:00 [INF] Content root path: C:\Users\Rahel\source\repos\SecureFileBridge\API Layer
+2026-05-29 12:37:47.919 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - null null
+2026-05-29 12:37:47.919 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/_vs/browserLink - null null
+2026-05-29 12:37:47.956 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 70.9221ms
+2026-05-29 12:37:48.117 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/_vs/browserLink - 200 null text/javascript; charset=UTF-8 233.4984ms
+2026-05-29 12:37:48.202 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - null null
+2026-05-29 12:37:48.249 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7235/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 47.4204ms
+2026-05-29 12:37:57.081 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:37:57.084 +02:00 [INF] Physical files found: 0
+2026-05-29 12:38:07.090 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:38:07.093 +02:00 [INF] Physical files found: 0
+2026-05-29 12:38:17.072 +02:00 [INF] Heartbeat 2 at "2026-05-29T10:38:17.0657903Z"
+2026-05-29 12:38:17.104 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:38:17.106 +02:00 [INF] Physical files found: 0
+2026-05-29 12:38:27.128 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:38:27.131 +02:00 [INF] Physical files found: 0
+2026-05-29 12:38:37.128 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:38:37.134 +02:00 [INF] Physical files found: 0
+2026-05-29 12:38:47.072 +02:00 [INF] Heartbeat 3 at "2026-05-29T10:38:47.0661935Z"
+2026-05-29 12:38:47.147 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:38:47.153 +02:00 [INF] Physical files found: 0
+2026-05-29 12:38:57.161 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:38:57.165 +02:00 [INF] Physical files found: 0
+2026-05-29 12:39:07.165 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:39:07.168 +02:00 [INF] Physical files found: 0
+2026-05-29 12:39:17.093 +02:00 [INF] Heartbeat 4 at "2026-05-29T10:39:17.0809596Z"
+2026-05-29 12:39:17.176 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:39:17.178 +02:00 [INF] Physical files found: 0
+2026-05-29 12:39:27.185 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:39:27.187 +02:00 [INF] Physical files found: 0
+2026-05-29 12:39:37.190 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:39:37.193 +02:00 [INF] Physical files found: 0
+2026-05-29 12:39:47.114 +02:00 [INF] Heartbeat 5 at "2026-05-29T10:39:47.1063552Z"
+2026-05-29 12:39:47.207 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:39:47.210 +02:00 [INF] Physical files found: 0
+2026-05-29 12:39:57.223 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:39:57.229 +02:00 [INF] Physical files found: 0
+2026-05-29 12:40:07.238 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:40:07.240 +02:00 [INF] Physical files found: 0
+2026-05-29 12:40:17.137 +02:00 [INF] Heartbeat 6 at "2026-05-29T10:40:17.1298294Z"
+2026-05-29 12:40:17.254 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:40:17.256 +02:00 [INF] Physical files found: 0
+2026-05-29 12:40:27.254 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:40:27.256 +02:00 [INF] Physical files found: 0
+2026-05-29 12:40:37.268 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:40:37.269 +02:00 [INF] Physical files found: 0
+2026-05-29 12:40:47.151 +02:00 [INF] Heartbeat 7 at "2026-05-29T10:40:47.1450692Z"
+2026-05-29 12:40:47.283 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:40:47.287 +02:00 [INF] Physical files found: 0
+2026-05-29 12:40:57.288 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:40:57.290 +02:00 [INF] Physical files found: 0
+2026-05-29 12:41:07.301 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:41:07.303 +02:00 [INF] Physical files found: 0
+2026-05-29 12:41:17.167 +02:00 [INF] Heartbeat 8 at "2026-05-29T10:41:17.1602710Z"
+2026-05-29 12:41:17.307 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:41:17.309 +02:00 [INF] Physical files found: 0
+2026-05-29 12:41:27.318 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:41:27.320 +02:00 [INF] Physical files found: 0
+2026-05-29 12:41:37.347 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:41:37.350 +02:00 [INF] Physical files found: 0
+2026-05-29 12:41:47.184 +02:00 [INF] Heartbeat 9 at "2026-05-29T10:41:47.1765090Z"
+2026-05-29 12:41:47.359 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:41:47.362 +02:00 [INF] Physical files found: 0
+2026-05-29 12:41:57.363 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:41:57.364 +02:00 [INF] Physical files found: 0
+2026-05-29 12:42:07.377 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:42:07.379 +02:00 [INF] Physical files found: 0
+2026-05-29 12:42:17.197 +02:00 [INF] Heartbeat 10 at "2026-05-29T10:42:17.1914576Z"
+2026-05-29 12:42:17.426 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:42:17.427 +02:00 [INF] Physical files found: 0
+2026-05-29 12:42:27.440 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:42:27.443 +02:00 [INF] Physical files found: 0
+2026-05-29 12:42:37.450 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:42:37.452 +02:00 [INF] Physical files found: 0
+2026-05-29 12:42:47.223 +02:00 [INF] Heartbeat 11 at "2026-05-29T10:42:47.2108427Z"
+2026-05-29 12:42:47.456 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:42:47.457 +02:00 [INF] Physical files found: 0
+2026-05-29 12:42:57.471 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:42:57.473 +02:00 [INF] Physical files found: 0
+2026-05-29 12:43:07.487 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:43:07.490 +02:00 [INF] Physical files found: 0
+2026-05-29 12:43:17.235 +02:00 [INF] Heartbeat 12 at "2026-05-29T10:43:17.2275890Z"
+2026-05-29 12:43:17.503 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:43:17.505 +02:00 [INF] Physical files found: 0
+2026-05-29 12:43:27.509 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:43:27.511 +02:00 [INF] Physical files found: 0
+2026-05-29 12:43:37.519 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:43:37.521 +02:00 [INF] Physical files found: 0
+2026-05-29 12:43:47.253 +02:00 [INF] Heartbeat 13 at "2026-05-29T10:43:47.2419451Z"
+2026-05-29 12:43:47.527 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:43:47.530 +02:00 [INF] Physical files found: 0
+2026-05-29 12:43:57.537 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:43:57.539 +02:00 [INF] Physical files found: 0
+2026-05-29 12:44:07.552 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:44:07.554 +02:00 [INF] Physical files found: 0
+2026-05-29 12:44:17.280 +02:00 [INF] Heartbeat 14 at "2026-05-29T10:44:17.2682150Z"
+2026-05-29 12:44:17.566 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:44:17.568 +02:00 [INF] Physical files found: 0
+2026-05-29 12:44:27.567 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:44:27.570 +02:00 [INF] Physical files found: 0
+2026-05-29 12:44:37.570 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:44:37.572 +02:00 [INF] Physical files found: 0
+2026-05-29 12:44:47.291 +02:00 [INF] Heartbeat 15 at "2026-05-29T10:44:47.2844626Z"
+2026-05-29 12:44:47.597 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:44:47.602 +02:00 [INF] Physical files found: 0
+2026-05-29 12:44:57.612 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:44:57.613 +02:00 [INF] Physical files found: 0
+2026-05-29 12:45:07.625 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:45:07.627 +02:00 [INF] Physical files found: 0
+2026-05-29 12:45:17.295 +02:00 [INF] Heartbeat 16 at "2026-05-29T10:45:17.2864550Z"
+2026-05-29 12:45:17.627 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:45:17.628 +02:00 [INF] Physical files found: 0
+2026-05-29 12:45:27.629 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:45:27.631 +02:00 [INF] Physical files found: 0
+2026-05-29 12:45:37.645 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:45:37.647 +02:00 [INF] Physical files found: 0
+2026-05-29 12:45:47.307 +02:00 [INF] Heartbeat 17 at "2026-05-29T10:45:47.3006115Z"
+2026-05-29 12:45:47.647 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:45:47.648 +02:00 [INF] Physical files found: 0
+2026-05-29 12:45:57.665 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:45:57.666 +02:00 [INF] Physical files found: 0
+2026-05-29 12:46:07.668 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:46:07.669 +02:00 [INF] Physical files found: 0
+2026-05-29 12:46:17.328 +02:00 [INF] Heartbeat 18 at "2026-05-29T10:46:17.3183188Z"
+2026-05-29 12:46:17.668 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:46:17.670 +02:00 [INF] Physical files found: 0
+2026-05-29 12:46:27.683 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:46:27.686 +02:00 [INF] Physical files found: 0
+2026-05-29 12:46:37.702 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:46:37.704 +02:00 [INF] Physical files found: 0
+2026-05-29 12:46:47.341 +02:00 [INF] Heartbeat 19 at "2026-05-29T10:46:47.3325987Z"
+2026-05-29 12:46:47.707 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:46:47.709 +02:00 [INF] Physical files found: 0
+2026-05-29 12:46:57.708 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:46:57.709 +02:00 [INF] Physical files found: 0
+2026-05-29 12:47:07.726 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:47:07.728 +02:00 [INF] Physical files found: 0
+2026-05-29 12:47:17.368 +02:00 [INF] Heartbeat 20 at "2026-05-29T10:47:17.3625217Z"
+2026-05-29 12:47:17.731 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:47:17.735 +02:00 [INF] Physical files found: 0
+2026-05-29 12:47:27.744 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:47:27.748 +02:00 [INF] Physical files found: 0
+2026-05-29 12:47:37.763 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:47:37.765 +02:00 [INF] Physical files found: 0
+2026-05-29 12:47:47.378 +02:00 [INF] Heartbeat 21 at "2026-05-29T10:47:47.3660150Z"
+2026-05-29 12:47:47.778 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:47:47.781 +02:00 [INF] Physical files found: 0
+2026-05-29 12:47:57.784 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:47:57.785 +02:00 [INF] Physical files found: 0
+2026-05-29 12:48:07.784 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:48:07.786 +02:00 [INF] Physical files found: 0
+2026-05-29 12:48:17.401 +02:00 [INF] Heartbeat 22 at "2026-05-29T10:48:17.3935799Z"
+2026-05-29 12:48:17.813 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:48:17.847 +02:00 [INF] Physical files found: 0
+2026-05-29 12:48:27.857 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:48:27.859 +02:00 [INF] Physical files found: 0
+2026-05-29 12:48:37.872 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:48:37.875 +02:00 [INF] Physical files found: 0
+2026-05-29 12:48:47.416 +02:00 [INF] Heartbeat 23 at "2026-05-29T10:48:47.4100120Z"
+2026-05-29 12:48:47.890 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:48:47.892 +02:00 [INF] Physical files found: 0
+2026-05-29 12:48:57.907 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:48:57.909 +02:00 [INF] Physical files found: 0
+2026-05-29 12:49:07.908 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:49:07.911 +02:00 [INF] Physical files found: 0
+2026-05-29 12:49:17.432 +02:00 [INF] Heartbeat 24 at "2026-05-29T10:49:17.4222874Z"
+2026-05-29 12:49:17.920 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:49:17.922 +02:00 [INF] Physical files found: 0
+2026-05-29 12:49:27.931 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:49:27.932 +02:00 [INF] Physical files found: 0
+2026-05-29 12:49:37.950 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:49:37.954 +02:00 [INF] Physical files found: 0
+2026-05-29 12:49:47.455 +02:00 [INF] Heartbeat 25 at "2026-05-29T10:49:47.4401247Z"
+2026-05-29 12:49:47.960 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:49:47.966 +02:00 [INF] Physical files found: 0
+2026-05-29 12:49:57.972 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:49:57.974 +02:00 [INF] Physical files found: 0
+2026-05-29 12:50:07.988 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:50:07.990 +02:00 [INF] Physical files found: 0
+2026-05-29 12:50:17.479 +02:00 [INF] Heartbeat 26 at "2026-05-29T10:50:17.4704007Z"
+2026-05-29 12:50:18.003 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:50:18.005 +02:00 [INF] Physical files found: 0
+2026-05-29 12:50:28.016 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:50:28.018 +02:00 [INF] Physical files found: 0
+2026-05-29 12:50:38.034 +02:00 [INF] Reading files from path: C:\Users\Rahel\OneDrive\Skrivbord\Test02
+2026-05-29 12:50:38.036 +02:00 [INF] Physical files found: 0
